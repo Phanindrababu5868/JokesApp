@@ -1,0 +1,35 @@
+/* Write your CSS code here */
+
+.navbar-app-name {
+  color: #ffffff;
+  font-size: 38px;
+  font-family: 'Roboto';
+  font-weight: 700;
+}
+
+.log-out-btn {
+  height: 60px;
+  background-color: cornflowerblue;
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+
+.description {
+  font-size: 32px;
+  font-family: 'Roboto';
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.jokes {
+  overflow-y: scroll;
+}
+
+.reload-icon {
+  color: white;
+  width: 30px;
+  height: 30px;
+}
